@@ -1,4 +1,4 @@
-Git Tutorial README
+Git Tutorial README v0.01
 
 This simple repository was created to practice basice operation of Git UI according to the following tutorial video:
 
